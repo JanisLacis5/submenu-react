@@ -1,5 +1,5 @@
-import NavLinks from "./NavLinks"
 import {useGlobalContext} from "./context"
+import NavLinks from "./NavLinks"
 import {FaBars} from "react-icons/fa"
 
 const Navbar = () => {
